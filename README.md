@@ -886,5 +886,3 @@ LIMIT 6;
 | Modern Times       | 1936           | 217881      | 1930   | 3          |
 
 
-	
-     "# imdb-sql-analysis-postgresql" 
